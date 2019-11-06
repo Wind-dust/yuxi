@@ -310,12 +310,16 @@ table {
 
 	position: absolute;
 
-	left: 35px;
+	left: 123px;
 
 	top: 1px;
-
+	height: 100%;
 	
 
+}
+.logo img{
+	width: 286px;
+	height: 71px;
 }
 
 .nav {

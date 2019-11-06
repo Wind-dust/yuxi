@@ -260,15 +260,15 @@ $(function() {
 
 		$(this).find(".line").stop().animate({width: 0}, 300);
 	});
-	new Cutover({
-		ul: ".production-cont ul",
-		li: "li",
-		prev: ".production-cont .prev",
-		next: ".production-cont .next",
-		pageNum: 4,
-		moveExtent: $(".production-cont li").outerWidth(true),
-		speed: 800
-	});
+	// new Cutover({
+	// 	ul: ".production-cont ul",
+	// 	li: "li",
+	// 	prev: ".production-cont .prev",
+	// 	next: ".production-cont .next",
+	// 	pageNum: 4,
+	// 	moveExtent: $(".production-cont li").outerWidth(true),
+	// 	speed: 800
+	// });
 
 	/*** History ***/
 	$(".history-view .tab-cont").each(function() {

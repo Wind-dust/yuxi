@@ -682,7 +682,7 @@ clear: both;}
 
 .about_box1 .fr{ width:45%}
 
-.about_box1 .fl{ width:51%}
+.about_box1 .fl{ width:51%;font-size: 16px}
 
 .about_box1 .fl h3{ font-size:16px; line-height:30px; color:#797979; font-weight:normal}
 
